@@ -1,6 +1,6 @@
 # Cryptographic Reductions
 
-My solution to 2nd module of Information Security Lab Autumn Semester 2022. This project consists of
+My solution to 2nd module of Information Security Lab Autumn Semester 2022 in ETH Zurich. This project consists of
 8 tasks:
 
 1. Showing that if we can break Schnorr Signature with No Message Attack, we can also solve Discrete
